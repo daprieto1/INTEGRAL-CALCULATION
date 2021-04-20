@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="edu.libre.integral.method.RectangleCalculationTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-04-20T00:57:12" hostname="MacBook-Pro.local" time="8.068">
-  <properties/>
-  <testcase name="shouldCalculateIntegral()" classname="edu.libre.integral.method.RectangleCalculationTest" time="8.068"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
